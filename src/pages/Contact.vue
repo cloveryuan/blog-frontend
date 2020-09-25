@@ -59,7 +59,7 @@
       </div>
     </div>
   </div>
-  </Layout>
+</Layout>
 </template>
 
 <script>
